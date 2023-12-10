@@ -1428,7 +1428,6 @@
 // 	}
 // };
 // int main() {
-//     //cout<<"Hello ";
 // 	System obj;
 // 	int n;
 // 	do {
