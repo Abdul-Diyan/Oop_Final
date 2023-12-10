@@ -1,0 +1,22 @@
+Roll-No.       Batch              Name				Quizes			Assignments			Mids            
+4159            14                Tahir Ali 			  0			   0			   	 0
+4222            14                Muhammad Ali  		  0			   0			   	 0
+4241            14                Waleed Amjad			  0			   0			   	 0
+4290            14                Burhan Tahir                    0			   0			   	 0
+4401            14                Hassan Sohail                   0			   0			   	 0
+5867            14                Saad Ali			  0			   0			   	 0
+5868            14                Nisar Haider			  0			   0			   	 0
+4014            14                Neeha Batool			  0			   0			   	 0
+4019            15                Abubakar Javed		  0			   0			   	 0
+4023            15                Saad Sultan		  	  0			   0			   	 0
+4028            15                Hassaan Elahi		  	  0			   0			   	 0
+4048            15                Kamal Subhani		  	  0			   0			   	 0
+4050            15                Saad Ahmed		  	  0			   0			   	 0
+4068            15                Usman Usman		  	  0			   0			   	 0
+4083            15                Zaid Tariq		  	  0			   0			   	 0
+4084            15                Abdullah Siddiqui		  0			   0			   	 0
+4091            15                Saif ullah		  	  0			   0			   	 0
+4102            15                Hashir Baig		  	  0			   0			   	 0
+4137            15                Usama Jawad		  	  0			   0			   	 0
+6789            22                Abdul Diyan              	  0			   0			   	 0
+6848            22                Ruban	Ahmed	  		  0			   0			   	 0

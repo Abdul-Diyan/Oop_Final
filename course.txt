@@ -1,0 +1,23 @@
+Roll-No.       Batch              Name 				 course	
+4159            14                Tahir Ali 			 CS104 CS105 CS106 CS107 CS108
+4222            14                Muhammad Ali  		 CS104 CS105 CS106 CS107 CS108
+4241            14                Waleed Amjad			 CS104 CS105 CS106 CS107 CS108
+4290            14                Burhan Tahir   		 CS104 CS105 CS106 CS107 CS108
+4401            14                Hassan Sohail			 CS104 CS105 CS106 CS107 CS108
+5867            14                Saad Ali			 CS104 CS105 CS106 CS107 CS108
+5868            14                Nisar Haider			 CS104 CS105 CS106 CS107 CS108
+4014            14                Neeha Batool			 CS104 CS105 CS106 CS107 CS108
+4019            15                Abubakar Javed		 CS104 CS105 CS106 CS107 CS108
+4023            15                Saad Sultan			 CS104 CS105 CS106 CS107 CS108
+4028            15                Hassaan Elahi			 CS104 CS105 CS106 CS107 CS108
+4048            15                Kamal Subhani			 CS104 CS105 CS106 CS107 CS108
+4050		15		  Saad Ahmed		         CS104 CS105 CS106 CS107 CS108
+4068            15                Usman Usman			 CS104 CS105 CS106 
+4083            15                Zaid Tariq			 CS104 CS105 CS106  
+4084		15		  Abdullah Siddiqui		 CS104 CS105 CS106  
+4091            15                Saif ullah			 CS104 CS105 CS106  
+4102		15		  Hashir Baig		         CS104 CS105 CS106 CS107
+6719		22		  Hamza Imran		         CS106 CS107 CS108 CS104 
+6848		22		  Ruban Ahmed		         CS104 CS105 CS106 CS107 CS108
+6788		22		  Saim Virk		         CS104 CS105 CS106 CS108 CS108
+6789		22		  Abdul Diyan		         CS104 CS105    CS106

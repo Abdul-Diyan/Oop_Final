@@ -1,0 +1,22 @@
+Roll-No.       Batch              Age  		Contact No.			Name                         
+4159            14                 19		03*********			Tahir Ali 
+4222            14                 18		03*********			Muhammad Ali  
+4241            14                 19		03*********     		Waleed Amjad
+4290            14                 19  		03*********      		Burhan Tahir                   
+4401            14                 21		03*********     		Hassan Sohail                  
+5867            14                 22		03********* 			Saad Ali
+5868            14                 23		03*********    			Nisar Haider
+4014            14                 21		03*********      		Neeha Batool
+4019            15                 20		03*********    			Abubakar Javed
+4023            15                 29		03*********    			Saad Sultan
+4028            15                 19		03*********    			Hassaan Elahi
+4048            15                 17		03*********    			Kamal Subhani
+4050            15                 19		03*********    			Saad Ahmed
+4068            15                 19		03*********       		Usman Usman
+4083            15                 19		03*********    			Zaid Tariq
+4084            15                 19		03*********    			Abdullah Siddiqui
+6789            22                 20		0323456784			Abdul Diyan
+6848            22                 20		03*********			Ruban
+6809            22                 20		0345678965			Muhaab Rizwan
+6609            22                 20		0234567434567			Zaid Mushtaq
+0000            22                 20		03**********			Fareed Hammad
